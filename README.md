@@ -71,4 +71,3 @@ Baixe os drivers necessários para automação de navegadores:
 - **OperatingSystem Library**: [Link](https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html)
 - **Process Library**: [Link](https://robotframework.org/robotframework/latest/libraries/Process.html)
 - **String Library**: [Link](https://robotframework.org/robotframework/latest/libraries/String.html)
-```
